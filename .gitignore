@@ -1,0 +1,7 @@
+*.log
+*.class
+*.zip
+*.jar
+*.env
+.idea/
+.vscode/
